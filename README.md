@@ -1,5 +1,7 @@
 # Hello, I'm Wanjira! 👋
 
+![](https://komarev.com/ghpvc/?username=Wanjira-Faith&style=flat)
+
 I'm a passionate software developer specializing in frontend technologies such as JavaScript and React. My expertise lies in transforming design concepts into captivating and interactive applications that engage users on a deeper level.
 
 ## 💻 Frontend Expertise
