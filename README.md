@@ -30,7 +30,6 @@ If you're interested in collaborating on exciting projects, discussing frontend 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Wanjira-Faith&theme=dark)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanjira-Faith&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanjira-Faith&layout=donut&theme=dark)
