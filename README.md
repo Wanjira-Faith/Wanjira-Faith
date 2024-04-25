@@ -1,3 +1,4 @@
+
 # Hello, I'm Wanjira! 👋
 
 ![](https://komarev.com/ghpvc/?username=Wanjira-Faith&style=flat)
@@ -29,6 +30,7 @@ Outside of coding, I enjoy maintaining my physical well-being through fitness ac
 If you're interested in collaborating on exciting projects, discussing frontend development strategies, or simply geeking out over the latest tech trends, I'd love to connect with you! Feel free to reach out to me 👉 wanjirafaith22@gmail.com
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Wanjira-Faith&theme=dark)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanjira-Faith&show_icons=true&theme=dark)
 
